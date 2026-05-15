@@ -1,3 +1,4 @@
 <?php
-echo "Khởi tạo Project";
+require_once '../app/core/App.php';
+$myApp = new App();
 ?>
